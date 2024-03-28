@@ -1,4 +1,4 @@
-package hai;
+package chapter4;
 
 import java.util.Scanner;
 
