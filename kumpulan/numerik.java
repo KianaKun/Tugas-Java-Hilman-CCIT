@@ -1,5 +1,3 @@
-package hai;
-
 import java.util.Calendar;
 
 public class numerik {
