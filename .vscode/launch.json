@@ -1,0 +1,115 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "banding",
+            "request": "launch",
+            "mainClass": "chapter3.banding",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "chapter7.calculator",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "lingkaran",
+            "request": "launch",
+            "mainClass": "chapter6.lingkaran",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "lingkaran",
+            "request": "launch",
+            "mainClass": "hai.lingkaran",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "numerik",
+            "request": "launch",
+            "mainClass": "hai.numerik",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "inputNama",
+            "request": "launch",
+            "mainClass": "hai.inputNama",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "segitiga",
+            "request": "launch",
+            "mainClass": "hai.segitiga",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "pekalian",
+            "request": "launch",
+            "mainClass": "hai.pekalian",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "hai.input",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "hai",
+            "request": "launch",
+            "mainClass": "hai.hai",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "tester",
+            "request": "launch",
+            "mainClass": "hai.tester",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "type": "java",
+            "name": "text",
+            "request": "launch",
+            "mainClass": "hai.text",
+            "projectName": "Belajar_2f47adaf"
+        },
+        {
+            "name": "C/C++: gcc.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc.exe build active file"
+        }
+    ],
+    "version": "2.0.0"
+}
