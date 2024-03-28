@@ -1,5 +1,3 @@
-package hai;
-
 import java.util.Scanner;
 
 public class pekalian {
